@@ -16,4 +16,7 @@
     "javascript",
     "starter"
   ]
+  "scripts": {
+    "start": "node your-script.js"
+}
 }
